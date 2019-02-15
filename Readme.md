@@ -1,0 +1,2 @@
+It's a search base web project. Its actually made for academic purpose, so that students can easily find academic help for particular subjects from other experts.
+Basically, students and instructors should have to register via NSU email to take advantage from the experts. 
